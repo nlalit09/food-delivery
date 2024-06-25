@@ -1,0 +1,58 @@
+.search{
+    margin-top:10px;
+    padding:5px;
+    
+  }
+  .filtering{
+    display:flex;
+  }
+  .topratedrestaurant{
+    margin-top: 15px;
+    margin-left:10px;
+   
+  }
+  .card-container{
+    display:grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin:auto;
+    gap:2px;
+    margin-top:50px;
+    width:70%;
+  }
+  .name-section{
+    margin-top: 10px;
+  }
+  .time-section{
+    color:#5e5f64;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:300;
+  }
+  .cusine-section{
+    color:#5e5f64;
+  }
+  .location-section{
+    color:#5e5f64;
+  }
+  .restcontainer{
+    display:flex;
+    border-radius: 10px;
+    flex-direction: column;
+    margin-top:10px;
+    
+   
+  }
+  .restcontainer:hover{
+    cursor:pointer;
+    transform: scale(0.9);
+    transition: linear 0.1s;
+  }
+
+  .restcontainer > img{
+    border-radius: 10px;
+    width:200px;
+  }
+  .searchButton{
+    margin-left: 10px;
+  }
+  
+  

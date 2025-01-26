@@ -5,6 +5,7 @@ function Error(){
     return(
             <>
                 <h1>Please enter correct URL</h1>
+                <h2>Please enter a valid Url</h2>
             </>
 
     )

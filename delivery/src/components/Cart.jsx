@@ -1,7 +1,8 @@
 function Cart(){
     return(
         <>
-        <h1>Cart Component</h1>
+        <h1>Carts Component</h1>
+            
         </>
     )
 }
